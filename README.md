@@ -7,3 +7,5 @@
 - HTML ( Básico )
 - CSS ( Básico )
 - Notion ( para instruções e anotações )
+# 
+![image](https://github.com/user-attachments/assets/7c6cc642-86a9-4942-8508-36fb1179128e)
